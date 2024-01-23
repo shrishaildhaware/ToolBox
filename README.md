@@ -1,4 +1,4 @@
 # Tools
-sripts or peace of code:
+sripts or piece of code:
 - Automate some task
 - Data analysis
